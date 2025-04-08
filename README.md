@@ -33,7 +33,7 @@ The model was saved using TensorFlow checkpoints for large-scale data handling.
 **How to Run**
 
 Clone the repository:
-git clone https://github.com/ashpunia/guava-disease-classifier.git
+git clone https://github.com/puniaa/guava-disease-classifier.git
 
 Install dependencies:
 pip install -r requirements.txt
